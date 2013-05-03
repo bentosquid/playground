@@ -1,2 +1,2 @@
-Hello world!
-how are you?
+Hello world!\n
+how are you doing?
