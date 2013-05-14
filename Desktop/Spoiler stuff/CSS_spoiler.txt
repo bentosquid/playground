@@ -1,0 +1,8 @@
+p {
+    font-size : 10px;
+}
+.spoilerParts {
+    font-size : 10px;
+    opacity : 0.03;
+    transition: opacity 1s linear;
+}
